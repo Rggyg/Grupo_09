@@ -1,7 +1,6 @@
 .mondongo0
 {
     width: 100%;
-    height: 450px;
     background-color: rgb(120, 215, 255);
     display: flex;
     flex-direction: column;
@@ -12,7 +11,6 @@
 .mondongo1
 {
     width: 100%;
-    height: 1000px;
     background-color: rgb(120, 215, 255);
     display: flex;
     flex-direction: column;
@@ -45,7 +43,6 @@
 .title
 {
     width: 100%;
-    height: 120px;
     background-color: rgb(3, 39, 105);
     display: flex;
     flex-direction: column;
@@ -57,7 +54,7 @@
 .pie
 {
     width: 100%;
-    height: 60px;
+    height: 80px;
     background-color: rgb(3, 39, 105);
     display: flex;
     flex-direction: column;
