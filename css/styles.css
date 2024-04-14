@@ -21,7 +21,6 @@
 .mondongo2
 {
     width: 100%;
-    height: 1000px;
     background-color: rgb(120, 215, 255);
     display: flex;
     flex-direction: column;
