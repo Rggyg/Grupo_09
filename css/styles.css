@@ -1,43 +1,13 @@
-.mondongo0
+.mondongo
 {
-    width: 100%;
     background-color: rgb(120, 215, 255);
     display: flex;
     flex-direction: column;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #0e0421;
-}
-.mondongo1
-{
-    width: 100%;
-    background-color: rgb(120, 215, 255);
-    display: flex;
-    flex-direction: column;
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #0e0421;
-}
-.mondongo2
-{
-    width: 100%;
-    background-color: rgb(120, 215, 255);
-    display: flex;
-    flex-direction: column;
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #0e0421;
-}
-.mondongo3
-{
-    width: 100%;
-    height: 1000px;
-    background-color: rgb(120, 215, 255);
-    display: flex;
-    flex-direction: column;
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #0e0421;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .title
 {
@@ -53,7 +23,6 @@
 .pie
 {
     width: 100%;
-    height: 80px;
     background-color: rgb(3, 39, 105);
     display: flex;
     flex-direction: column;
@@ -80,4 +49,11 @@
 .black
 {
     background-color: rgb(5, 9, 20);
+    margin: 0px;
+}
+.marg
+{
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
