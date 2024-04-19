@@ -46,6 +46,11 @@
     flex-direction: column;
     text-align: center;
 }
+.back
+{
+    color: #78d7ff;
+    background-color: rgb(3, 39, 105);
+}
 .black
 {
     background-color: rgb(5, 9, 20);
