@@ -30,21 +30,21 @@
     text-align: center;
     color: #faffff;
 }
-.btc
-{
-    background-color: rgb(3, 39, 105);
-    border: 10px;
-    padding: 15px 32px;
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.btc:hover
+.link:hover
 {
     background-color: rgb(12, 11, 66);
 }
 .link
 {
     color: #78d7ff;
+    background-color: rgb(3, 39, 105);
+    border: 10px;
+    padding: 15px 32px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 .black
 {
